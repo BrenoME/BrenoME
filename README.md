@@ -1,6 +1,6 @@
 <h1>Bem vindo!!!</h1>
 
-<img src="assets/my-logo.jpg" align="right" float="right">
+<img src="assets/my-logo.jpg" align="right" float="right" width="225">
 <p>Meu nome é Breno, sou desenvolvedor JavaScript, Java, C/C++ e PHP.<br/> Estou disponível para freelas/trabalho, caso queira entrar em contato basta clicar nos botões abaixo.</p>
 
 <p align="left">
