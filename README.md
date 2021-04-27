@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Bem vindo!!!</h1>
 
-<!--
-**BrenoME/BrenoME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/my-logo.jpg" align="right" float="right">
+<p>Meu nome é Breno, sou desenvolvedor JavaScript, Java, C/C++ e PHP.<br/> Estou disponível para freelas/trabalho, caso queira entrar em contato basta clicar nos botões abaixo.</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.linkedin.com/in/breno-macedo-ernani-de-s%C3%A1-110223158/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-macedo-ernani-de-s%C3%A1-110223158/"/></a>
+  
+  <a href="https://api.whatsapp.com/send?phone=+5521968726379&text=Oi%20Breno,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub.%20%20Voc%C3%AA%20se%20encontra%20dispon%C3%ADvel%20no%20momento?" alt="Whatsapp">
+  <img src="https://img.shields.io/badge/-Whatsapp-00BB2D?style=for-the-badge&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5521968726379&text=Oi%20Breno,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub.%20%20Voc%C3%AA%20se%20encontra%20dispon%C3%ADvel%20no%20momento?" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>  
