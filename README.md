@@ -12,4 +12,4 @@
   <img src="https://img.shields.io/badge/-Whatsapp-00BB2D?style=for-the-badge&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5521968726379&text=Oi%20Breno,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub.%20%20Voc%C3%AA%20se%20encontra%20dispon%C3%ADvel%20no%20momento?" /></a>
 
 </p>  
-<p><b>Meu Github.io:</b> https://breno404.github.io/</p>
+<!--<p><b>Meu Github.io:</b> https://breno404.github.io/</p>-->
