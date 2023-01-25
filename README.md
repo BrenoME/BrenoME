@@ -1,4 +1,4 @@
-## Olá mundo, sou Breno Macedo, desenvolvedor e analista de sistemas 
+## Olá mundo, sou Breno Macedo, desenvolvedor web.
 
 <div align="center">
   <a href="https://github.com/breno404">
