@@ -1,4 +1,4 @@
-## Olá mundo, sou Breno Macedo, desenvolvedor web.
+## Olá mundo!
 
 <div align="center">
   <a href="https://github.com/breno404">
