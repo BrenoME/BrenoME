@@ -26,7 +26,7 @@ A primeira vez que pude escrever códigos de forma efetiva para uma empresa foi 
       <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     </h1>
   </div>
-
+<p>Aqui abaixo estão algumas das tecnologias em que me destaco.</p>
 <div> 
   <a href="[https://www.instagram.com/maiscedo2/](https://www.instagram.com/maiscedo2/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brenomacedo404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
