@@ -1,6 +1,8 @@
 ## Resume Profile!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno404&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
-
+<p>Minha carreira na TI começou em 2019, quando entrei como estagiário numa consultoria de SAP. Desde o começo eu sabia que a minha área era o desenvolvimento de softwares, sempre estive estudando alguma linguagem, arquiteturas, seja em um curso ou em um livro da faculdade. Gosto de testar algoritmos e acompanhar os projetos abertos no GitHub.
+<p></p>
+A primeira vez que pude escrever códigos de forma efetiva para uma empresa foi durante a pandemia, quando entrei na NTL. Foi cativante trocar ideias com outros desenvolvedores do mesmo projeto, as formas que tínhamos de alcançar o mesmo resultado, a performance. Hoje me encontro na Connectcom, continuo na programação, atuando nos sistemas internos dos clientes, criando novas soluções e mantendo as que já estão em funcionamento, sempre participando de reuniões, sempre resolvendo demandas urgentes.</p>
 <div >
     <h1>
       <img align="center" alt="azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
