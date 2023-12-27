@@ -3,7 +3,9 @@
 <div align="center">
   <a href="https://github.com/breno404">
 </div>
-<div>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno404)](https://github.com/anuraghazra/github-readme-stats)</div>
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno404)](https://github.com/anuraghazra/github-readme-stats)
+</div>
   <div style="display: inline_block" >
     <br/>
     <h1>
