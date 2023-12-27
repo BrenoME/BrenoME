@@ -3,6 +3,8 @@
 <p style="font-weight: 600;">Minha carreira na TI começou em 2019, quando entrei como estagiário numa consultoria de SAP. Desde o começo eu sabia que a minha área era o desenvolvimento de softwares, sempre estive estudando alguma linguagem, arquiteturas, seja em um curso ou em um livro da faculdade. Gosto de testar algoritmos e acompanhar os projetos abertos no GitHub.
 </p><p style="font-weight: 600;">
 A primeira vez que pude escrever códigos de forma efetiva para uma empresa foi durante a pandemia, quando entrei na NTL. Foi cativante trocar ideias com outros desenvolvedores do mesmo projeto, as formas que tínhamos de alcançar o mesmo resultado, a performance. Hoje me encontro na Connectcom, continuo na programação, atuando nos sistemas internos dos clientes, criando novas soluções e mantendo as que já estão em funcionamento, sempre participando de reuniões, sempre resolvendo demandas urgentes.</p>
+<br/>
+<p>Aqui abaixo estão algumas das tecnologias em que me destaco.</p>
 <div >
     <h1>
       <img align="center" alt="azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
@@ -26,7 +28,6 @@ A primeira vez que pude escrever códigos de forma efetiva para uma empresa foi 
       <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     </h1>
   </div>
-<p>Aqui abaixo estão algumas das tecnologias em que me destaco.</p>
 <div> 
   <a href="[https://www.instagram.com/maiscedo2/](https://www.instagram.com/maiscedo2/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brenomacedo404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
