@@ -3,9 +3,9 @@
 <div align="center">
   <a href="https://github.com/breno404">
 </div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno404)](https://github.com/anuraghazra/github-readme-stats)
   <div style="display: inline_block" >
-     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno404)](https://github.com/anuraghazra/github-readme-stats)
+     
     <br/>
     <h1>
       <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
