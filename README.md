@@ -3,11 +3,19 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=breno404&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight"/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno404&langs_count=10&theme=tokyonight"/>
 </div>
-<p style="font-weight: 600;">Minha carreira na TI começou em 2019, quando entrei como estagiário numa consultoria de SAP. Desde o começo eu sabia que a minha área era o desenvolvimento de softwares, sempre estive estudando alguma linguagem, arquiteturas, seja em um curso ou em um livro da faculdade. Gosto de testar algoritmos e acompanhar os projetos abertos no GitHub.
-</p><p style="font-weight: 600;">
-A primeira vez que pude escrever códigos de forma efetiva para uma empresa foi durante a pandemia, quando entrei na NTL. Foi cativante trocar ideias com outros desenvolvedores do mesmo projeto, as formas que tínhamos de alcançar o mesmo resultado, a performance. Hoje me encontro na Connectcom, continuo na programação, atuando nos sistemas internos dos clientes, criando novas soluções e mantendo as que já estão em funcionamento, sempre participando de reuniões, sempre resolvendo demandas urgentes.</p>
+<p style="font-weight: 600;">
+    Olá! Sou Breno Macedo, um desenvolvedor Full Stack dedicado. Atualmente trabalho à CTC Tech, atendendo à PPSA, onde aplico minha experiência no desenvolvimento e manutenção de aplicações web, além de análise de dados. Com uma sólida base em ReactJS, Java e Python, e proficiência em NextJS, TypeScript, Node, Spring Boot e Flask, entrego consistentemente soluções dinâmicas e centradas no usuário, impulsionando o sucesso dos negócios.
+</p>
 <br/>
-<p>Aqui abaixo estão algumas das tecnologias em que me destaco.</p>
+<p style="font-weight: 600;">
+Principais Competências:
+</p>
+<ul>
+    <li>Excelência em Frontend: Especialista na criação de interfaces intuitivas e na melhoria da experiência do usuário com ReactJS e NextJS. </li>
+    <li>Proficiente em Backend: Experiência no desenvolvimento backend utilizando Laravel (PHP), Node.js (JavaScript), Spring (Java) e Flask (Python), oferecendo uma visão ampla e integrada da arquitetura de aplicações</li>
+    <li>Habilidade em Resolução de Problemas: Reconhecido pela capacidade de superar desafios técnicos e promover a harmonia nas equipes, garantindo a execução eficiente e entrega tranquila dos projetos. </li>
+    <li>Aprendizado Adaptativo: Apesar de minha principal expertise estar no desenvolvimento Full Stack, estou sempre aberto a expandir meus conhecimentos e explorar tecnologias de outros campos, movido por uma curiosidade insaciável e compromisso com o aprendizado contínuo.</li>
+</ul>
 <div >
     <h1>
       <img align="center" alt="azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
